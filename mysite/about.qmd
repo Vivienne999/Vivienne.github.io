@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site
+This site is for experience creating Quarto once more time
